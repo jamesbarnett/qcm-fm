@@ -41,14 +41,14 @@ body {
 }
 
 .promotion {
-  padding: 1rem 1rem;
+  padding: 0.8125rem;
   display: grid;
   text-align: center;
   background-color: var(--clr-neutral-1);
   margin: 2rem 1rem;
   border-radius: 0.75rem;
-  gap: 1.75rem;
-  width: 16rem;
+  min-width: 16rem;
+  max-width: 18rem;
 }
 
 .qr-code {
@@ -60,10 +60,11 @@ body {
   font-weight: var(--fw-bold);
   color: var(--clr-accent-1);
   text-align: center;
-  padding-bottom: 1rem;
+  padding: 1rem 1rem;
 }
 
 .promotion__instructions {
   color: var(--clr-accent-2);
   font-size: var(--fs-content);
+  padding: 0rem 1rem 1.5rem 1rem;
 }
