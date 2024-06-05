@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [github](https://github.com/jamesbarnett/qcm-fe.git)
-- Live Site URL: [http://jamesbarnett.co/qcm-fm/](http://jamesbarnett.co/qcm-fm/)
+- Solution URL: [Github](https://github.com/jamesbarnett/qcm-fm)
+- Live Site URL: [Github Page](https://jamesbarnett.github.io/qcm-fm/)
 
 ## My process
 
@@ -41,6 +41,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Vertical centering of elements
 - Strategies for layout
+- Font integration, google fonts
 
 ### Continued development
 
@@ -55,5 +56,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jamesbarnett)
+- Frontend Mentor - [@jamesbarnett](https://www.frontendmentor.io/profile/jamesbarnett)
 TryHackMe - [jamesb43](https://tryhackme.com/p/jamesb43)
