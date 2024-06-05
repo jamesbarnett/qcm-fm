@@ -57,4 +57,3 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@jamesbarnett](https://www.frontendmentor.io/profile/jamesbarnett)
-TryHackMe - [jamesb43](https://tryhackme.com/p/jamesb43)
